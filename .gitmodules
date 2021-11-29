@@ -1,0 +1,3 @@
+[submodule "updateServerAddOnHA"]
+	path = updateServerAddOnHA
+	url = https://github.com/barneyman/updateServerAddOnHA.git
