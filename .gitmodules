@@ -1,3 +1,6 @@
 [submodule "updateServerAddOnHA"]
 	path = updateServerAddOnHA
 	url = https://github.com/barneyman/updateServerAddOnHA.git
+[submodule "homeassistant-addon-pi-cec"]
+	path = homeassistant-addon-pi-cec
+	url = https://github.com/barneyman/homeassistant-addon-pi-cec.git
